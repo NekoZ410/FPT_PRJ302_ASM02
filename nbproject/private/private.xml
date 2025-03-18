@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/OrderDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/CategoryDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/signOut.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/searchProduct.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/signUp.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/userPayment.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/signUp.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/UserDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/purchase.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/product.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/productManage.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/cart.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/signIn.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/order.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/searchResult.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/productManage.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/Cart.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/addCart.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/Category.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/User.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/categories.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/Product.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/productAdd.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/orderViaCart.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/CartDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/PaymentDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/signIn.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/Purchased.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/deleteCart.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/index.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/Payment.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/ProductDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/Order.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/product.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/productChange.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/model/PurchasedDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/src/java/controller/orderDirectly.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-17/netbeans/JavaProject/prjRE00_assignment02/web/productEdit.jsp</file>
+        </group>
+    </open-files>
+</project-private>
